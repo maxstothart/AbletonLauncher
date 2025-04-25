@@ -1,0 +1,10 @@
+settings:
+  executables:
+    flex: "C:\\Program Files\\FlexASIOGUI\\FlexASIOGUI.exe" #comment out if not needed
+    ableton: "C:\\ProgramData\\Ableton\\Live 12 Suite\\Program\\Ableton Live 12 Suite.exe"
+  libraries:
+    saves: "C:\\Users\\thehr\\OneDrive\\Music" #Ableton saves folder
+    templates: "C:\\Users\\thehr\\OneDrive\\Documents\\Ableton\\User Library\\Templates" #Ableton templates folder, usually in user library
+  style:
+    dark: false
+    scale: 40 #default: 40
